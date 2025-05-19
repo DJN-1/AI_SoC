@@ -2,5 +2,6 @@
 
 int main()
 {
-	printf("hi hello nihao 안녕하세요");
+	printf("hi hello nihao 나는 유진스안녕하세요");
+	
 }
